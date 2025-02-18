@@ -1,0 +1,154 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "phone": "+1 123-456-7890",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "phone": "+1 987-654-3210",
+      "email": "bob.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "phone": "+1 555-666-7777",
+      "email": "charlie.brown@example.com"
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "phone": "+1 222-333-4444",
+      "email": "david.lee@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Emma Watson",
+      "phone": "+1 888-999-0000",
+      "email": "emma.watson@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "phone": "+1 777-888-9999",
+      "email": "frank.miller@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Grace Taylor",
+      "phone": "+1 111-222-3333",
+      "email": "grace.taylor@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Henry Wilson",
+      "phone": "+1 444-555-6666",
+      "email": "henry.wilson@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Isabella Martinez",
+      "phone": "+1 999-000-1111",
+      "email": "isabella.martinez@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Jack White",
+      "phone": "+1 333-444-5555",
+      "email": "jack.white@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Kelly Green",
+      "phone": "+1 666-777-8888",
+      "email": "kelly.green@example.com"
+    },
+    {
+      "id": 12,
+      "name": "Liam Adams",
+      "phone": "+1 123-789-4560",
+      "email": "liam.adams@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Mia Turner",
+      "phone": "+1 987-321-6540",
+      "email": "mia.turner@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Noah Scott",
+      "phone": "+1 159-753-8520",
+      "email": "noah.scott@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Bennett",
+      "phone": "+1 357-951-4680",
+      "email": "olivia.bennett@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Paul Nelson",
+      "phone": "+1 654-852-1590",
+      "email": "paul.nelson@example.com"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Harris",
+      "phone": "+1 741-852-9630",
+      "email": "quinn.harris@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Rachel King",
+      "phone": "+1 963-852-7410",
+      "email": "rachel.king@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Samuel Brooks",
+      "phone": "+1 852-741-9630",
+      "email": "samuel.brooks@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Tina Carter",
+      "phone": "+1 456-123-7890",
+      "email": "tina.carter@example.com"
+    },
+    {
+      "id": 21,
+      "name": "Umar Evans",
+      "phone": "+1 321-654-9870",
+      "email": "umar.evans@example.com"
+    },
+    {
+      "id": 22,
+      "name": "Violet Parker",
+      "phone": "+1 789-456-1230",
+      "email": "violet.parker@example.com"
+    },
+    {
+      "id": 23,
+      "name": "William Foster",
+      "phone": "+1 951-753-1590",
+      "email": "william.foster@example.com"
+    },
+    {
+      "id": 24,
+      "name": "Xander Reed",
+      "phone": "+1 852-963-7410",
+      "email": "xander.reed@example.com"
+    },
+    {
+      "id": 25,
+      "name": "Yasmine Lopez",
+      "phone": "+1 159-357-4680",
+      "email": "yasmine.lopez@example.com"
+    }
+  ]
+}
